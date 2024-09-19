@@ -7,3 +7,11 @@ func SayHello(name string) string {
 func Penambahan(x float64, y float64) float64 {
 	return x + y
 }
+
+func Perkalian(x float64, y float64) float64 {
+	return x * y
+}
+
+func Pembagian(x float64, y float64) float64 {
+	return x / y
+}
