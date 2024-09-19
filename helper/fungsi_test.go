@@ -8,7 +8,7 @@ import (
 func TestSayHello(t *testing.T) {
 	result := SayHello("Dhimas")
 	if result != "Hallo Dhimas" {
-		// Error
+		// Errorr
 		t.FailNow()
 	}
 }
